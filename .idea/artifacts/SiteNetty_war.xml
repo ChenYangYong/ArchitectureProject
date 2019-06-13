@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SiteNetty:war">
+    <output-path>$PROJECT_DIR$/SiteNetty/target</output-path>
+    <root id="archive" name="SiteNetty.war">
+      <element id="artifact" artifact-name="SiteNetty:war exploded" />
+    </root>
+  </artifact>
+</component>
